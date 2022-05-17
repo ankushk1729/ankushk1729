@@ -22,5 +22,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushk1729&" alt="ankushk1729" /></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankushk1729&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankushk1729&theme=nord_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankushk1729&theme=nord_dark">
 </p>
