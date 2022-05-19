@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 
-- 🔭 I’m currently working on [Social Network Website](https://github.com/ankushk1729/social-media-next)
-
 - 🌱 I’m currently learning **Web3 development**
 
 - 👯 I’m looking to collaborate on **Full stack web development projects**
