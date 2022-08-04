@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack web development projects**
 
-- 💬 Ask me about **React, JavaScript, Node and Cryptos :) **
+- 💬 Ask me about **React, JavaScript, Node :) **
 
 - 📫 How to reach me **ankushrattan17@gmail.com**
 
