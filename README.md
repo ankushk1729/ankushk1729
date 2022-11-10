@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👯 I’m looking to collaborate on **Full stack web development projects**
 
