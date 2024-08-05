@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
-<h3 align="center">Computer Science Undergrad</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Full stack web development projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **React, JavaScript, Node :) **
+- 💬 Ask me about **Life, nah jk :) **
 
 - 📫 How to reach me **ankushrattan17@gmail.com**
 
