@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **Life, nah jk :) **
+- 💬 Ask me about **Life, nah jk :)**
 
 - 📫 How to reach me **ankushrattan17@gmail.com**
 
